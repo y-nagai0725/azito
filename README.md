@@ -1,5 +1,5 @@
 # cafe azito<!-- omit in toc -->
-![Image](https://github.com/user-attachments/assets/18ac8b69-48dc-4680-9396-c0447801680b)
+![Image](https://github.com/user-attachments/assets/3eddc8f9-85d1-4ea9-8ae1-22cfbf41c41a)
 
 ## 目次<!-- omit in toc -->
 - [概要](#概要)
